@@ -1,5 +1,5 @@
 {{- /* **NOTE: This  template comment will be removed by [`tmpl`].**
-# typescript-webpack.tmplx
+# typescript-webpack.tmpl
 
 Template of [TypeScript] with [Babel] & [webpack]
 
